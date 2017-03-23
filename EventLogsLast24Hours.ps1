@@ -1,6 +1,6 @@
-#Created to skim event logs with more then 50 servers checking event 
+#Created to skim event logs with more than 50 servers checking event 
 #logs server by server takes to long, so this dumps all warnings 
-#and erros into a text file. i then sorte the files by size 
+#and erros into a text file. I then sorted the files by size 
 #and tackle the most chatty server first. 
 #Creation date : 07-30-2016
 #Creator: Alix N Hoover
